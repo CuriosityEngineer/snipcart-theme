@@ -171,7 +171,7 @@ body.snip-open {
 
 .snip-layout .snip-btn {
     font-weight: 700;
-    background-color: #555;
+    background-color: #f5ad58;
     border-radius: 3px;
     border: 0;
     color: #fff;
@@ -276,7 +276,7 @@ body.snip-open {
 
 .snip-layout .snip-header {
     font-weight: 700;
-    background: #18c2a5;
+    background: #222;
     color: #fff;
     padding: 1em;
     position: relative;
