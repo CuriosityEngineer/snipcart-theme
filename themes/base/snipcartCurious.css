@@ -22,7 +22,7 @@ body.snip-open {
 .snip-layout {
     background: rgba(123, 123, 123, .75);
     bottom: 0;
-    color: #FF0000;
+    color: #CCC;
     font-family: Arial, sans-serif;
     font-size: 14px;
     left: 0;
@@ -276,7 +276,7 @@ body.snip-open {
 
 .snip-layout .snip-header {
     font-weight: 700;
-    background: #222;
+    background: #18c2a5;
     color: #fff;
     padding: 1em;
     position: relative;
