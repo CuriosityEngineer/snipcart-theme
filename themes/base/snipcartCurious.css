@@ -186,7 +186,7 @@ body.snip-open {
 }
 
 .snip-layout .snip-btn:hover {
-    background-color: #3c3c3c
+    background-color: #4d2e5a
 }
 
 .snip-layout .snip-btn--small {
@@ -196,12 +196,12 @@ body.snip-open {
 }
 
 .snip-layout .snip-btn--highlight {
-    background: #efe778;
-    color: #222
+    background: #86509c;
+    color: #fff
 }
 
 .snip-layout .snip-btn--highlight:hover {
-    background-color: #eadf4a
+    background-color: #4d2e5a
 }
 
 .snip-layout .snip-btn--left {
