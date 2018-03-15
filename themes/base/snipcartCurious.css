@@ -354,7 +354,7 @@ body.snip-open {
 }
 
 .snip-layout .snip-footer__copyright {
-    background: url(https://s26.postimg.org/piithxze1/lock03.png) left .3em no-repeat;
+    background: url(https://s26.postimg.org/gxffk8heh/lock04.png) left .3em no-repeat;
     color: #555;
     display: inline-block;
     font-size: 10px;
@@ -365,7 +365,7 @@ body.snip-open {
 
 .snip-layout .snip-actions__link,
 .snip-layout .snip-footer__highlight {
-    color: #999
+    color: #f5ad58
 }
 
 .snip-layout .snip-actions {
